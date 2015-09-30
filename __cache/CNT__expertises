@@ -1,0 +1,32 @@
+echo "<h3>Direction technique</h3>
+
+<p><strong>DevOp :</strong> workflow et toolchain (svn / git / environnements de tests, déploiements automatiques), conception d’architectures techniques (performance, sécurité)</p>
+
+<p><strong>Direction de production :</strong> management d’équipes techniques, management de pool de prestataires externes, chiffrage techniques, recherche d’optimums</p>
+
+<p><strong>Assistance commerciale :</strong> estimations, benchmarking, rédaction slides stratégiques, veille technique et stratégique, présentations multilingues</p>
+
+<p><strong>Assistance à gestion de projet :</strong> spécifications fonctionnelles, audits fonctionnels et métiers, encadrement de chefs de projets</p>
+
+<p><strong>Environnements :</strong> projets hétérogènes (très petits à très gros), contextes hétérogènes (agence de communication,  360, SSII, startup)</p>
+
+<h3>Conception &amp; développement</h3>
+
+<p><strong>Backend :</strong> API, REST API, RPC, grosses BDD, temps réel, cache, scheduling, design patterns</p>
+
+<p><strong>Frontend :</strong>responsive design, fluid layouts, MVC, frameworking</p>
+
+<p><strong>Langages :</strong> Java, Objective C, PHP, JS, Shell, HTML5, SCSS, SQL, XML, JSON</p>
+
+<p><strong>Frameworks :</strong> Swing, Sencha, Ionic, Backbone, Angular, Node.js, Slim, CMS variés</p>
+
+<p><strong>Systèmes :</strong> Unix (scripting, administration), AWS (EC2, S3, Glacier, 53, IAM, DynamoDB, scripting), LAMP, Git</p>
+
+<h3>Creative Technology</h3>
+
+<p>Prototypage, identification et intégration de solutions à forte valeur ajoutée, rigueur technologique et esthétique</p>
+
+<p>Vulgarisation, transmission et évangélisation des équipes</p>
+
+<p>Blog et Lab The Creative Technology pour Publicis et Diplomatic Cover : <a href=\"http://thecreativetechnology.com\">http://thecreativetechnology.com</a> et <a href=\"http://lab.thecreativetechnology.com\">http://lab.thecreativetechnology.com</a></p>
+";

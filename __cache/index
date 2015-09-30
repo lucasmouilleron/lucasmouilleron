@@ -1,0 +1,100 @@
+echo "<!DOCTYPE html>
+<html>
+<head>
+
+    <title>";echo "Lucas Mouilleron - CTO, Directeur de la Technologie";echo "</title>
+    <meta name=\"description\" content=\"";echo "Lucas Mouilleron - CTO, Directeur de la Technologie";echo "\">
+    
+    <meta content=\"";echo "http://localhost/lucasmouilleron";echo "/assets/img/screen.jpg\" property=\"og:image\" />
+
+    <meta content=\"profile\" name=\"twitter:card\" />
+    <meta content=\"";echo "Lucas Mouilleron - CTO, Directeur de la Technologie";echo "\" name=\"twitter:title\" />
+    <meta content=\"";echo "Lucas Mouilleron - CTO, Directeur de la Technologie";echo "\" name=\"twitter:description\" />
+    <meta content=\"";echo "http://localhost/lucasmouilleron";echo "/assets/img/screen.jpg\" name=\"twitter:image:src\" />
+
+    <meta charset=\"utf-8\">
+    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">
+    <meta name=\"viewport\" content=\"width=device-width initial-scale=1.0\">
+    <link rel=\"icon\" type=\"image/png\" href=\"";echo "http://localhost/lucasmouilleron";echo "/assets/img/favicon.png\"/>
+    <link rel=\"stylesheet\" href=\"";echo "http://localhost/lucasmouilleron";echo "/assets/css/main.css\">
+
+</head>
+<body>
+
+    <!-- /////////////////////////////////////////////////////////////// -->
+    <div class=\"jumbo\">
+
+        <div class=\"content vertical\">
+            <div class=\"circular-photo\"></div>
+            <div class=\"container\">
+                <div class=\"first-name\">";echo "Lucas";echo "</div>
+                <div class=\"last-name\">";echo "Mouilleron";echo "</div>
+
+                <div class=\"executive-summary\">
+                    ";echo "<p>J'excerce depuis <strong>plus de 8 ans</strong> dans le secteur <strong>digital</strong>.</p>
+
+<p><strong>Ingénieur</strong> de formation, j'ai été <strong>développeur</strong>, <strong>concepteur</strong>, chef de projet technique, creative technologist et <strong>directeur technique</strong> .</p>
+
+<p>J'ai travaillé en <strong>SSII</strong>, en <strong>agence de communication</strong>, en freelance et en <strong>startup</strong>.</p>
+
+<p>En français et en <strong>anglais</strong>.</p>
+";echo "
+                </div>
+
+                <div class=\"expertises\">
+                    ";echo "<h3>Direction technique</h3>
+
+<p><strong>DevOp :</strong> workflow et toolchain (svn / git / environnements de tests, déploiements automatiques), conception d’architectures techniques (performance, sécurité)</p>
+
+<p><strong>Direction de production :</strong> management d’équipes techniques, management de pool de prestataires externes, chiffrage techniques, recherche d’optimums</p>
+
+<p><strong>Assistance commerciale :</strong> estimations, benchmarking, rédaction slides stratégiques, veille technique et stratégique, présentations multilingues</p>
+
+<p><strong>Assistance à gestion de projet :</strong> spécifications fonctionnelles, audits fonctionnels et métiers, encadrement de chefs de projets</p>
+
+<p><strong>Environnements :</strong> projets hétérogènes (très petits à très gros), contextes hétérogènes (agence de communication,  360, SSII, startup)</p>
+
+<h3>Conception &amp; développement</h3>
+
+<p><strong>Backend :</strong> API, REST API, RPC, grosses BDD, temps réel, cache, scheduling, design patterns</p>
+
+<p><strong>Frontend :</strong>responsive design, fluid layouts, MVC, frameworking</p>
+
+<p><strong>Langages :</strong> Java, Objective C, PHP, JS, Shell, HTML5, SCSS, SQL, XML, JSON</p>
+
+<p><strong>Frameworks :</strong> Swing, Sencha, Ionic, Backbone, Angular, Node.js, Slim, CMS variés</p>
+
+<p><strong>Systèmes :</strong> Unix (scripting, administration), AWS (EC2, S3, Glacier, 53, IAM, DynamoDB, scripting), LAMP, Git</p>
+
+<h3>Creative Technology</h3>
+
+<p>Prototypage, identification et intégration de solutions à forte valeur ajoutée, rigueur technologique et esthétique</p>
+
+<p>Vulgarisation, transmission et évangélisation des équipes</p>
+
+<p>Blog et Lab The Creative Technology pour Publicis et Diplomatic Cover : <a href=\"http://thecreativetechnology.com\">http://thecreativetechnology.com</a> et <a href=\"http://lab.thecreativetechnology.com\">http://lab.thecreativetechnology.com</a></p>
+";echo "
+                </div>
+
+
+                <div class=\"row actions\">
+                <div class=\"col-sm-4\"><a href=\"";echo "http://localhost/lucasmouilleron/__files/cv_fr.pdf";echo "\" target=\"_new\" class=\"button cv\"><i class=\"fa fa-file-text\"></i> C.V. complet</a></div>
+                    <div class=\"col-sm-4\"><a href=\"http://www.linkedin.com/profile/view?id=155578011\" target=\"_new\" class=\"button linkedin\"><i class=\"fa fa-linkedin-square\"></i> LinkedIn</a></div>
+                    <div class=\"col-sm-4\"><a href=\"https://github.com/lucasmouilleron\" target=\"_new\" class=\"button github\"><i class=\"fa fa-github-square\"></i> Github</a></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '";echo "', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+</body>
+</html>";
