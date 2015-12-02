@@ -12,20 +12,22 @@ __Environnements :__ projets hétérogènes (très petits à très gros), contex
 
 ### Conception & développement
 
-__Backend :__ API, REST API, RPC, grosses BDD, temps réel, cache, scheduling, design patterns
+__Backend :__ API, REST API, RPC, sockets, shared memory, grosses BDD, temps réel, cache, scheduling, design patterns
 
 __Frontend :__responsive design, fluid layouts, MVC, frameworking
 
-__Langages :__ Java, Objective C, PHP, JS, Shell, HTML5, SCSS, SQL, XML, JSON
+__Langages :__ Java, Objective C, PHP, Python, JS, Shell, HTML5, SCSS, SQL, XML, JSON
 
-__Frameworks :__ Swing, Sencha, Ionic, Backbone, Angular, Node.js, Slim, CMS variés
+__Frameworks :__ Angular, Ionic, Swing, Sencha, Backbone, Node.js, Slim, CMS variés
 
-__Systèmes :__ Unix (scripting, administration), AWS (EC2, S3, Glacier, 53, IAM, DynamoDB, scripting), LAMP, Git
+__Systèmes :__ Unix (scripting, administration), AWS (EC2, S3, Glacier, DynamoDB, scripting), LAMP, Docker, Maven, Npm, Git
 
 ### Creative Technology
 
-Prototypage, identification et intégration de solutions à forte valeur ajoutée, rigueur technologique et esthétique
+Prototypage, identification et intégration de solutions à forte valeur ajoutée, rigueur technologique et esthétique.
 
-Vulgarisation, transmission et évangélisation des équipes
+Vulgarisation, transmission et évangélisation des équipes.
 
-Blog The Creative Technology pour Publicis et Diplomatic Cover : [http://thecreativetechnology.lucasmouilleron.com](http://thecreativetechnology.lucasmouilleron.com) 
+Bloc Code : [http://code.lucasmouilleron.com](http://code.lucasmouilleron.com)
+
+Blog The Creative Technology (pour Publicis et Diplomatic Cover) : [http://thecreativetechnology.lucasmouilleron.com](http://thecreativetechnology.lucasmouilleron.com) 

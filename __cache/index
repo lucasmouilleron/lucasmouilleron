@@ -41,6 +41,13 @@ echo "<!DOCTYPE html>
 ";echo "
                 </div>
 
+                <div class=\"row actions\">
+                    <div class=\"col-sm-3\"><a href=\"";echo "http://localhost/lucasmouilleron/__files/cv_fr.pdf";echo "\" target=\"_new\" class=\"button cv\"><i class=\"fa fa-file-text\"></i> C.V.</a></div>
+                    <div class=\"col-sm-3\"><a href=\"http://www.linkedin.com/profile/view?id=155578011\" target=\"_new\" class=\"button linkedin\"><i class=\"fa fa-linkedin-square\"></i> LinkedIn</a></div>
+                    <div class=\"col-sm-3\"><a href=\"http://code.lucasmouilleron.com\" target=\"_new\" class=\"button code\"><i class=\"fa fa-code\"></i> Code</a></div>
+                    <div class=\"col-sm-3\"><a href=\"https://github.com/lucasmouilleron\" target=\"_new\" class=\"button github\"><i class=\"fa fa-github-square\"></i> Github</a></div>
+                </div>
+
                 <div class=\"expertises\">
                     ";echo "<h3>Direction technique</h3>
 
@@ -56,32 +63,26 @@ echo "<!DOCTYPE html>
 
 <h3>Conception &amp; développement</h3>
 
-<p><strong>Backend :</strong> API, REST API, RPC, grosses BDD, temps réel, cache, scheduling, design patterns</p>
+<p><strong>Backend :</strong> API, REST API, RPC, sockets, shared memory, grosses BDD, temps réel, cache, scheduling, design patterns</p>
 
 <p><strong>Frontend :</strong>responsive design, fluid layouts, MVC, frameworking</p>
 
-<p><strong>Langages :</strong> Java, Objective C, PHP, JS, Shell, HTML5, SCSS, SQL, XML, JSON</p>
+<p><strong>Langages :</strong> Java, Objective C, PHP, Python, JS, Shell, HTML5, SCSS, SQL, XML, JSON</p>
 
-<p><strong>Frameworks :</strong> Swing, Sencha, Ionic, Backbone, Angular, Node.js, Slim, CMS variés</p>
+<p><strong>Frameworks :</strong> Angular, Ionic, Swing, Sencha, Backbone, Node.js, Slim, CMS variés</p>
 
-<p><strong>Systèmes :</strong> Unix (scripting, administration), AWS (EC2, S3, Glacier, 53, IAM, DynamoDB, scripting), LAMP, Git</p>
+<p><strong>Systèmes :</strong> Unix (scripting, administration), AWS (EC2, S3, Glacier, DynamoDB, scripting), LAMP, Docker, Maven, Npm, Git</p>
 
 <h3>Creative Technology</h3>
 
-<p>Prototypage, identification et intégration de solutions à forte valeur ajoutée, rigueur technologique et esthétique</p>
+<p>Prototypage, identification et intégration de solutions à forte valeur ajoutée, rigueur technologique et esthétique.</p>
 
-<p>Vulgarisation, transmission et évangélisation des équipes</p>
+<p>Vulgarisation, transmission et évangélisation des équipes.</p>
 
-<p>Blog The Creative Technology pour Publicis et Diplomatic Cover : <a href=\"http://thecreativetechnology.lucasmouilleron.com\">http://thecreativetechnology.lucasmouilleron.com</a> </p>
+<p>Bloc Code : <a href=\"http://code.lucasmouilleron.com\">http://code.lucasmouilleron.com</a></p>
+
+<p>Blog The Creative Technology (pour Publicis et Diplomatic Cover) : <a href=\"http://thecreativetechnology.lucasmouilleron.com\">http://thecreativetechnology.lucasmouilleron.com</a> </p>
 ";echo "
-                </div>
-
-
-                <div class=\"row actions\">
-                    <div class=\"col-sm-3\"><a href=\"";echo "http://localhost/lucasmouilleron/__files/cv_fr.pdf";echo "\" target=\"_new\" class=\"button cv\"><i class=\"fa fa-file-text\"></i> C.V.</a></div>
-                    <div class=\"col-sm-3\"><a href=\"http://www.linkedin.com/profile/view?id=155578011\" target=\"_new\" class=\"button linkedin\"><i class=\"fa fa-linkedin-square\"></i> LinkedIn</a></div>
-                    <div class=\"col-sm-3\"><a href=\"https://github.com/lucasmouilleron\" target=\"_new\" class=\"button github\"><i class=\"fa fa-github-square\"></i> Github</a></div>
-                    <div class=\"col-sm-3\"><a href=\"http://code.lucasmouilleron.com\" target=\"_new\" class=\"button code\"><i class=\"fa fa-code\"></i> Code</a></div>
                 </div>
 
             </div>

@@ -1,6 +1,7 @@
 /*////////////////////////////////////////////////////////////////////////////*/
 @import url(vendor/bootstrap.min.css);
 @import url(vendor/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 /*////////////////////////////////////////////////////////////////////////////*/
 html, body {
@@ -68,15 +69,21 @@ h3 {
 }
 
 p {
-  font-size: 0.8em;
+  font-family: 'open sans', arial, sans-serif;
+  font-size: 1em;
   text-align: justify;
-  line-height: 1.2em;
+  line-height: 1.4em;
   margin-bottom: 7px;
+}
+
+li {
+  font-size: 0.8em;
+  line-height: 1.2em;
 }
 
 .executive-summary {
   margin: 40px 0 30px 0;
-  font-size: 1.3em;
+  font-size: 1.2em;
   line-height: 1.2em;
 }
 
@@ -102,6 +109,7 @@ p {
 
 .actions {
   text-align: center;
+  margin:20px auto 20px auto;
 }
 
 a.button {
@@ -115,7 +123,7 @@ a.button:hover {
 
 a.button {
   display: block;
-  margin: 30px auto;
+  margin: 0px auto 20px auto;
   font-size: 1em;
   padding: 22px 14px;
   width: 80%;
