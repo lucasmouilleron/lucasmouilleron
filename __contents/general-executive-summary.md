@@ -1,5 +1,5 @@
 ***
-J'excerce depuis __plus de 8 ans__ dans le secteur __digital__.
+J'excerce depuis __plus de 10 ans__ dans le secteur __digital__.
 
 __Ingénieur__ de formation, j'ai été __développeur__, __concepteur__, chef de projet technique, creative technologist et __directeur technique__ .
 
