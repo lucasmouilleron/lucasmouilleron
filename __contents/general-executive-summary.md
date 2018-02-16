@@ -1,8 +1,8 @@
 ***
-J'excerce depuis __plus de 10 ans__ dans le secteur __digital__.
+J'excerce depuis __plus de 12 ans__ dans le secteur __informatique__.
 
-__Ingénieur__ de formation, j'ai été __développeur__, __concepteur__, chef de projet technique, creative technologist et __directeur technique__ .
+__Ingénieur__ de formation, j'ai été __développeur__, __architecte__, chef de projet technique, creative technologist, __data scientist__, __ingénieur de recherche__ et __directeur de la technologie__.
 
-J'ai travaillé en __SSII__, en __agence de communication__, en freelance et en __startup__.
+J'ai travaillé en __SSII__, en __agence de communication__, en freelance, en __startup__ et en __fonds d'investissement__.
 
-En français et en __anglais__.
+Je suis actuellement __Analyste Quantitatif Sénior, Responsable de l’Ingénierie Equity et Associé__ chez __[http://eraam.com](http://eraam.com)__.

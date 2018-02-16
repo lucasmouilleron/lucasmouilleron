@@ -1,6 +1,24 @@
 ***
+### Conception et architecture logicielle
+
+__Backend :__ API (REST, RPC, custom), sockets, shared memory, grosses BDD (relationnelles, non relationnelles, customs), temps réel, caching, scheduling, design patterns
+
+__Frontend :__ responsive design, fluid layouts, MVC, frameworking (Angular, Ionic, Swing)
+
+__Production :__ unix (scripting, admin), AWS (EC2, S3, Glacier, DynamoDB, scripting), versioning (git, svn), continuous development, déploiement (docker, ant, custom), testing (unitaire, analyse numérique), performance et optimisation
+
+__Langages :__ Java, Python, Objective C, Shell, JS (backend, frontend), SQL, XML, JSON, PHP, HTML5, SCSS, CMS variés
+
+### Computer et Data Science
+
+__Analyse numérique :__ data munging, data mining, data visualisation, Python (Scipy, Numpy, Pyplot)
+
+__Veille technologique :__ bibliographie, early adoption, benchmarking
+
+__Blog Code :__ [http://code.lucasmouilleron.com](http://code.lucasmouilleron.com)
+
 ### Direction technique
-__DevOp :__ workflow et toolchain (svn / git / environnements de tests, déploiements automatiques), conception d’architectures techniques (performance, sécurité)
+__Architecture et DevOp :__ workflows et toolchain, conception d’architectures techniques, performance, sécurité, testing, analyse numérique
 
 __Direction de production :__ management d’équipes techniques, management de pool de prestataires externes, chiffrage techniques, recherche d’optimums
 
@@ -9,25 +27,3 @@ __Assistance commerciale :__ estimations, benchmarking, rédaction slides strat�
 __Assistance à gestion de projet :__ spécifications fonctionnelles, audits fonctionnels et métiers, encadrement de chefs de projets
 
 __Environnements :__ projets hétérogènes (très petits à très gros), contextes hétérogènes (agence de communication,  360, SSII, startup)
-
-### Conception & développement
-
-__Backend :__ API, REST API, RPC, sockets, shared memory, grosses BDD, temps réel, cache, scheduling, design patterns
-
-__Frontend :__responsive design, fluid layouts, MVC, frameworking
-
-__Langages :__ Java, Objective C, PHP, Python, JS, Shell, HTML5, SCSS, SQL, XML, JSON
-
-__Frameworks :__ Angular, Ionic, Swing, Sencha, Backbone, Node.js, Slim, CMS variés
-
-__Systèmes :__ Unix (scripting, administration), AWS (EC2, S3, Glacier, DynamoDB, scripting), LAMP, Docker, Maven, Npm, Git
-
-### Creative Technology
-
-Prototypage, identification et intégration de solutions à forte valeur ajoutée, rigueur technologique et esthétique.
-
-Vulgarisation, transmission et évangélisation des équipes.
-
-Bloc Code : [http://code.lucasmouilleron.com](http://code.lucasmouilleron.com)
-
-Blog The Creative Technology (pour Publicis et Diplomatic Cover) : [http://thecreativetechnology.lucasmouilleron.com](http://thecreativetechnology.lucasmouilleron.com) 

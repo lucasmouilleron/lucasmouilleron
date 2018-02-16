@@ -1,1 +1,1 @@
-Lucas Mouilleron - CTO, Directeur de la Technologie
+Lucas Mouilleron - Directeur de la Technologie

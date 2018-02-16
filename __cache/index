@@ -3,20 +3,20 @@ echo "<!DOCTYPE html>
 <head>
 
     <title>";echo "Lucas Mouilleron - CTO, Directeur de la Technologie";echo "</title>
-    <meta name=\"description\" content=\"";echo "Lucas Mouilleron - CTO, Directeur de la Technologie";echo "\">
+    <meta name=\"description\" content=\"";echo "Lucas Mouilleron - Directeur de la Technologie";echo "\">
     
-    <meta content=\"";echo "http://localhost/lucasmouilleron";echo "/assets/img/screen.jpg\" property=\"og:image\" />
+    <meta content=\"";echo "http://lucasmouilleron.com";echo "/assets/img/screen.jpg\" property=\"og:image\" />
 
     <meta content=\"profile\" name=\"twitter:card\" />
     <meta content=\"";echo "Lucas Mouilleron - CTO, Directeur de la Technologie";echo "\" name=\"twitter:title\" />
-    <meta content=\"";echo "Lucas Mouilleron - CTO, Directeur de la Technologie";echo "\" name=\"twitter:description\" />
-    <meta content=\"";echo "http://localhost/lucasmouilleron";echo "/assets/img/screen.jpg\" name=\"twitter:image:src\" />
+    <meta content=\"";echo "Lucas Mouilleron - Directeur de la Technologie";echo "\" name=\"twitter:description\" />
+    <meta content=\"";echo "http://lucasmouilleron.com";echo "/assets/img/screen.jpg\" name=\"twitter:image:src\" />
 
     <meta charset=\"utf-8\">
     <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">
     <meta name=\"viewport\" content=\"width=device-width initial-scale=1.0\">
-    <link rel=\"icon\" type=\"image/png\" href=\"";echo "http://localhost/lucasmouilleron";echo "/assets/img/favicon.png\"/>
-    <link rel=\"stylesheet\" href=\"";echo "http://localhost/lucasmouilleron";echo "/assets/css/main.css\">
+    <link rel=\"icon\" type=\"image/png\" href=\"";echo "http://lucasmouilleron.com";echo "/assets/img/favicon.png\"/>
+    <link rel=\"stylesheet\" href=\"";echo "http://lucasmouilleron.com";echo "/assets/css/main.css\">
 
 </head>
 <body>
@@ -31,27 +31,45 @@ echo "<!DOCTYPE html>
                 <div class=\"last-name\">";echo "Mouilleron";echo "</div>
 
                 <div class=\"executive-summary\">
-                    ";echo "<p>J'excerce depuis <strong>plus de 10 ans</strong> dans le secteur <strong>digital</strong>.</p>
+                    ";echo "<p>J'excerce depuis <strong>plus de 12 ans</strong> dans le secteur <strong>informatique</strong>.</p>
 
-<p><strong>Ingénieur</strong> de formation, j'ai été <strong>développeur</strong>, <strong>concepteur</strong>, chef de projet technique, creative technologist et <strong>directeur technique</strong> .</p>
+<p><strong>Ingénieur</strong> de formation, j'ai été <strong>développeur</strong>, <strong>architecte</strong>, chef de projet technique, creative technologist, <strong>data scientist</strong>, <strong>ingénieur de recherche</strong> et <strong>directeur de la technologie</strong>.</p>
 
-<p>J'ai travaillé en <strong>SSII</strong>, en <strong>agence de communication</strong>, en freelance et en <strong>startup</strong>.</p>
+<p>J'ai travaillé en <strong>SSII</strong>, en <strong>agence de communication</strong>, en freelance, en <strong>startup</strong> et en <strong>fonds d'investissement</strong>.</p>
 
-<p>En français et en <strong>anglais</strong>.</p>
+<p>Je suis actuellement <strong>Analyste Quantitatif Sénior, Responsable de l’Ingénierie Equity et Associé</strong> chez <strong><a href=\"http://eraam.com\">http://eraam.com</a></strong>.</p>
 ";echo "
                 </div>
 
                 <div class=\"row actions\">
-                    <div class=\"col-sm-3\"><a href=\"";echo "http://localhost/lucasmouilleron/__files/cv_fr.pdf";echo "\" target=\"_new\" class=\"button cv\"><i class=\"fa fa-file-text\"></i> C.V.</a></div>
+                    <div class=\"col-sm-3\"><a href=\"";echo "http://lucasmouilleron.com/__files/cv_fr.pdf";echo "\" target=\"_new\" class=\"button cv\"><i class=\"fa fa-file-text\"></i> C.V.</a></div>
                     <div class=\"col-sm-3\"><a href=\"http://www.linkedin.com/in/lucasmouilleron\" target=\"_new\" class=\"button linkedin\"><i class=\"fa fa-linkedin-square\"></i> LinkedIn</a></div>
                     <div class=\"col-sm-3\"><a href=\"http://code.lucasmouilleron.com\" target=\"_new\" class=\"button code\"><i class=\"fa fa-code\"></i> Code</a></div>
                     <div class=\"col-sm-3\"><a href=\"https://github.com/lucasmouilleron\" target=\"_new\" class=\"button github\"><i class=\"fa fa-github-square\"></i> Github</a></div>
                 </div>
 
                 <div class=\"expertises\">
-                    ";echo "<h3>Direction technique</h3>
+                    ";echo "<h3>Conception et architecture logicielle</h3>
 
-<p><strong>DevOp :</strong> workflow et toolchain (svn / git / environnements de tests, déploiements automatiques), conception d’architectures techniques (performance, sécurité)</p>
+<p><strong>Backend :</strong> API (REST, RPC, custom), sockets, shared memory, grosses BDD (relationnelles, non relationnelles, customs), temps réel, caching, scheduling, design patterns</p>
+
+<p><strong>Frontend :</strong> responsive design, fluid layouts, MVC, frameworking (Angular, Ionic, Swing)</p>
+
+<p><strong>Production :</strong> unix (scripting, admin), AWS (EC2, S3, Glacier, DynamoDB, scripting), versioning (git, svn), continuous development, déploiement (docker, ant, custom), testing (unitaire, analyse numérique), performance et optimisation</p>
+
+<p><strong>Langages :</strong> Java, Python, Objective C, Shell, JS (backend, frontend), SQL, XML, JSON, PHP, HTML5, SCSS, CMS variés</p>
+
+<h3>Computer et Data Science</h3>
+
+<p><strong>Analyse numérique :</strong> data munging, data mining, data visualisation, Python (Scipy, Numpy, Pyplot)</p>
+
+<p><strong>Veille technologique :</strong> bibliographie, early adoption, benchmarking</p>
+
+<p><strong>Blog Code :</strong> <a href=\"http://code.lucasmouilleron.com\">http://code.lucasmouilleron.com</a></p>
+
+<h3>Direction technique</h3>
+
+<p><strong>Architecture et DevOp :</strong> workflows et toolchain, conception d’architectures techniques, performance, sécurité, testing, analyse numérique</p>
 
 <p><strong>Direction de production :</strong> management d’équipes techniques, management de pool de prestataires externes, chiffrage techniques, recherche d’optimums</p>
 
@@ -60,28 +78,6 @@ echo "<!DOCTYPE html>
 <p><strong>Assistance à gestion de projet :</strong> spécifications fonctionnelles, audits fonctionnels et métiers, encadrement de chefs de projets</p>
 
 <p><strong>Environnements :</strong> projets hétérogènes (très petits à très gros), contextes hétérogènes (agence de communication,  360, SSII, startup)</p>
-
-<h3>Conception &amp; développement</h3>
-
-<p><strong>Backend :</strong> API, REST API, RPC, sockets, shared memory, grosses BDD, temps réel, cache, scheduling, design patterns</p>
-
-<p><strong>Frontend :</strong>responsive design, fluid layouts, MVC, frameworking</p>
-
-<p><strong>Langages :</strong> Java, Objective C, PHP, Python, JS, Shell, HTML5, SCSS, SQL, XML, JSON</p>
-
-<p><strong>Frameworks :</strong> Angular, Ionic, Swing, Sencha, Backbone, Node.js, Slim, CMS variés</p>
-
-<p><strong>Systèmes :</strong> Unix (scripting, administration), AWS (EC2, S3, Glacier, DynamoDB, scripting), LAMP, Docker, Maven, Npm, Git</p>
-
-<h3>Creative Technology</h3>
-
-<p>Prototypage, identification et intégration de solutions à forte valeur ajoutée, rigueur technologique et esthétique.</p>
-
-<p>Vulgarisation, transmission et évangélisation des équipes.</p>
-
-<p>Bloc Code : <a href=\"http://code.lucasmouilleron.com\">http://code.lucasmouilleron.com</a></p>
-
-<p>Blog The Creative Technology (pour Publicis et Diplomatic Cover) : <a href=\"http://thecreativetechnology.lucasmouilleron.com\">http://thecreativetechnology.lucasmouilleron.com</a> </p>
 ";echo "
                 </div>
 
