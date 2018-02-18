@@ -26,4 +26,4 @@ __Assistance commerciale :__ estimations, benchmarking, rédaction slides strat�
 
 __Assistance à gestion de projet :__ spécifications fonctionnelles, audits fonctionnels et métiers, encadrement de chefs de projets
 
-__Environnements :__ projets hétérogènes (très petits à très gros), contextes hétérogènes (agence de communication,  360, SSII, startup)
+__Environnements :__ projets hétérogènes (très petits à très gros), contextes hétérogènes (agence de communication 360, SSII, startup, fonds d'investissement)
